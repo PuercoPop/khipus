@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "JavierOlaechea 9/26/2017 00:30",
+	"super" : "MADescription",
+	"category" : "Khipus-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"title",
+		"text",
+		"answers"
+	],
+	"name" : "Question",
+	"type" : "normal"
+}

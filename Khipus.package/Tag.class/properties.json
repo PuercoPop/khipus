@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "JavierOlaechea 9/26/2017 00:30",
+	"super" : "Object",
+	"category" : "Khipus-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tagName"
+	],
+	"name" : "Tag",
+	"type" : "normal"
+}
