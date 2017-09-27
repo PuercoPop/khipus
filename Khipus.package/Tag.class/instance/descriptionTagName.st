@@ -1,5 +1,6 @@
-acessing-magritte
+descriptions
 descriptionTagName
+	<magritteDescription>
 	^ MAStringDescription new
 		accessor: #tagName;
 		label: 'tag name';
