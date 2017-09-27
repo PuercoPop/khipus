@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "JavierOlaechea 9/26/2017 00:32",
-	"super" : "MADescription",
+	"super" : "Object",
 	"category" : "Khipus-Model",
 	"classinstvars" : [ ],
 	"pools" : [ ],
