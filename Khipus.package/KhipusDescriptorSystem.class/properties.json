@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "JavierOlaechea 9/27/2017 22:08",
+	"super" : "DescriptorSystem",
+	"category" : "Khipus",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KhipusDescriptorSystem",
+	"type" : "normal"
+}
