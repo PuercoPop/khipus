@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "JavierOlaechea 10/17/2017 13:37",
+	"super" : "Object",
+	"category" : "ConfigurationOfKhipus",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"LastVersionLoad"
+	],
+	"instvars" : [
+		"project"
+	],
+	"name" : "ConfigurationOfKhipus",
+	"type" : "normal"
+}
