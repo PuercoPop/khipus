@@ -1,30 +1,7 @@
-I am ConfigurationOfZincHTTPComponents, the Metacello configuration of Zinc HTTP Components, an open-source Smalltalk framework to deal with the HTTP networking protocol.
+I am the metacello configuration of Khipus.
 
-For more information, see http://zn.stfx.eu
+For more information see https://github.com/PuercoPop/khipus
 
-Here are some ways to load this project:
+To load me execute:
 
-	ConfigurationOfZincHTTPComponents load.
-	ConfigurationOfZincHTTPComponents project latestVersion load.
-	ConfigurationOfZincHTTPComponents project latestVersion load: 'Tests'.
-	ConfigurationOfZincHTTPComponents project bleedingEdge load.
-
-Here is a list of available groups:
-
-	default - Core
-	Tests
-	Character-Encoding
-	Resource-Meta
-	Zodiac
-	
-	AWS
-	REST
-	Seaside
-	WebSocket
-	SSO - SSO-OAuth1 - SSO-OAuth2 - SSO-OpenID - SSO-Demo
-	
-	WebDAV
-	WWS
-	Patch-HTTPSocket
-	
-This is open-source software licensed under the MIT License.
+  ConfigurationofKhipus project latestVersion load.
