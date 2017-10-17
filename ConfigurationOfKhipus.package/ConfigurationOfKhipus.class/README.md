@@ -4,4 +4,5 @@ For more information see https://github.com/PuercoPop/khipus
 
 To load me execute:
 
-  ConfigurationofKhipus project latestVersion load.
+  (ConfigurationOfKhipus project version: '0.1-baseline') load.
+  ConfigurationOfKhipus loadBleedingEdge.
