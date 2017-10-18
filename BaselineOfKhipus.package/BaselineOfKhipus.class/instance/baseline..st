@@ -1,13 +1,12 @@
 baselines
-baseline01: spec
-	<version: '0.1-baseline'>
+baseline: spec
+	<baseline>
 	spec
 		for: #common
 		do: [ spec
-				blessing: #baseline;
 				description: 'A Knowledge base.';
-				author: 'JavierOlaechea';
-				repository: 'github://PuercoPop/khipus/src'.
+				author: 'JavierOlaechea'.
+			spec baseline: 'Khipus' with: [ spec repository: 'github://PuercoPop/khipus/src' ].
 			spec
 				project: 'Magritte3'
 				with: [ spec

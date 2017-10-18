@@ -1,7 +1,7 @@
 {
-	"commentStamp" : "JavierOlaechea 10/17/2017 16:53",
+	"commentStamp" : "JavierOlaechea 10/18/2017 10:21",
 	"super" : "Object",
-	"category" : "ConfigurationOfKhipus",
+	"category" : "BaselineOfKhipus",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [
@@ -10,6 +10,6 @@
 	"instvars" : [
 		"project"
 	],
-	"name" : "ConfigurationOfKhipus",
+	"name" : "BaselineOfKhipus",
 	"type" : "normal"
 }
