@@ -9,5 +9,10 @@ baseline01: spec
 				author: 'JavierOlaechea';
 				repository: 'github://PuercoPop/khipus/src'.
 			spec
-				package: 'Khipus'.
+				project: 'Magritte3'
+				with: [ spec
+						className: #ConfigurationOfMagritte3;
+						versionString: #stable;
+						repository: 'http://smalltalkhub.com/mc/Magritte/Magritte3/main/' ].
+			spec spec package: 'Khipus'.
 			spec group: 'default' with: #('Khipus') ]
