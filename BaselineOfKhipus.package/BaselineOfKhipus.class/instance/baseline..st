@@ -12,6 +12,10 @@ baseline: spec
 				with: [ spec
 						className: #ConfigurationOfMagritte3;
 						versionString: #stable;
-						repository: 'http://smalltalkhub.com/mc/Magritte/Magritte3/main/' ].
+						repository: 'http://smalltalkhub.com/mc/DBXTalk/Glorp/main/' ].
+			spec project: 'Glorp' with: [ 
+				spec className: #ConfigurationOfGlorp;
+				versionString: #stable;
+				repository: '' ].
 			spec package: 'Khipus'.
 			spec group: 'default' with: #('Khipus') ]
