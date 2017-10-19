@@ -12,6 +12,6 @@ To load me  the first time execute:
 Afterwards use
 
   Metacello image
-    baseline: 'Khipus';
+    baseline: 'Sample';
     get;
     load.
