@@ -13,5 +13,5 @@ baseline: spec
 						className: #ConfigurationOfMagritte3;
 						versionString: #stable;
 						repository: 'http://smalltalkhub.com/mc/Magritte/Magritte3/main/' ].
-			spec spec package: 'Khipus'.
+			spec package: 'Khipus'.
 			spec group: 'default' with: #('Khipus') ]
