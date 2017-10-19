@@ -1,15 +1,11 @@
 {
 	"commentStamp" : "JavierOlaechea 10/19/2017 00:06",
-	"super" : "Object",
+	"super" : "BaselineOf",
 	"category" : "BaselineOfKhipus",
 	"classinstvars" : [ ],
 	"pools" : [ ],
-	"classvars" : [
-		"LastVersionLoad"
-	],
-	"instvars" : [
-		"project"
-	],
+	"classvars" : [ ],
+	"instvars" : [ ],
 	"name" : "BaselineOfKhipus",
 	"type" : "normal"
 }
