@@ -17,5 +17,5 @@ baseline: spec
 				spec className: #ConfigurationOfGlorp;
 				versionString: #stable;
 				repository: '' ].
-			spec package: 'Khipus'.
+			spec package: 'Khipus' with: [ spec requires: #('Glorp' 'Magritte3'). ].
 			spec group: 'default' with: #('Khipus') ]
