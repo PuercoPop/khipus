@@ -20,5 +20,5 @@ baseline: spec
 						className: #ConfigurationOfGlorp;
 						versionString: #stable;
 						repository: 'http://smalltalkhub.com/mc/DBXTalk/Glorp/main/' ].
-			spec package: 'Khipus' with: [ spec requires: 'Magritte3' ].
-			spec group: 'default' with: #('Khipus') ]
+			spec package: 'Khipus' with: [ spec requires: #('Magritte3') ].
+	 ]
